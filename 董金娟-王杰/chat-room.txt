@@ -1,7 +1,4 @@
 Big baby, do you want to me?
 - ni zhen shi bing de bu qing a ,gai qu kan yi sheng le ; oh no , yi sheng dou fang jia le , tai bei ai le ;
-<<<<<<< HEAD
-- hhh;
-=======
 Big baby, I miss you a little.
->>>>>>> e76b5cd838abb3143e9acef38ca4605b905282ec
+- only a little？
